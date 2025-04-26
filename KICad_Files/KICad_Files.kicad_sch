@@ -8528,7 +8528,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "3p3"
+		(property "Value" "1p2"
 			(at 138.43 104.14 0)
 			(effects
 				(font
@@ -8537,7 +8537,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
 			(at 136.8552 106.68 0)
 			(effects
 				(font
@@ -10181,7 +10181,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "3p3"
+		(property "Value" "1p2"
 			(at 151.13 104.14 0)
 			(effects
 				(font
@@ -10190,7 +10190,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
 			(at 149.5552 106.68 0)
 			(effects
 				(font
@@ -13048,7 +13048,7 @@
 				)
 			)
 		)
-		(property "Value" "2n2"
+		(property "Value" "3n9"
 			(at 142.24 93.98 90)
 			(effects
 				(font
@@ -13056,13 +13056,12 @@
 				)
 			)
 		)
-		(property "Footprint" "Inductor_SMD:L_0603_1608Metric"
+		(property "Footprint" "Inductor_SMD:L_0402_1005Metric_Pad0.77x0.64mm_HandSolder"
 			(at 134.62 87.63 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "~"
